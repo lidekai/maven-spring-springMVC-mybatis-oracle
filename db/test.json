@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "testID": "1",
+            "testName": "1",
+            "testSex": "1",
+            "testAge": "1"
+        },
+        {
+            "testID": "2",
+            "testName": "2",
+            "testSex": "2",
+            "testAge": "2"
+        },
+        {
+            "testID": "3",
+            "testName": "3",
+            "testSex": "3",
+            "testAge": "3"
+        }
+    ]
+}

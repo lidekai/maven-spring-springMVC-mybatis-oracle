@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="net.person.dao.TestDao">
+
+    <!-- 查询test表所有数据 -->
+    <select id="getAllTest" resultType="net.person.model.TestModel">
+        SELECT * FROM "SSM"."test"
+    </select>
+</mapper>
